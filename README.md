@@ -3,7 +3,7 @@
 Just for practice purposes and fun :)
 
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+### [Live Site](https://eko-chatapp.netlify.app/)
 
 ## Deployment
 Back-End : Heroku Servers 
